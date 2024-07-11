@@ -1,0 +1,14 @@
+# Local variables #
+###################
+.env
+bin/
+data/*
+chat/*
+
+# Repositories #
+################
+
+# Log #
+#######
+*.log
+tmp
