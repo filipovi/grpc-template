@@ -3,7 +3,7 @@
 .env
 bin/
 data/*
-chat/*
+chat/*.pb.go
 
 # Repositories #
 ################
