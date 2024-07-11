@@ -1,0 +1,14 @@
+# Local variables #
+###################
+.env
+bin/
+data/*
+chat/*.pb.go
+
+# Repositories #
+################
+
+# Log #
+#######
+*.log
+tmp
